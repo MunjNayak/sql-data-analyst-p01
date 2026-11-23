@@ -11,11 +11,6 @@ This project implements a conversational SQL agent using **LangGraph** and **Str
 - Execute queries against a SQLite database and stream results back to the user
 - Support configurable filters to refine query results
 
-## Demo Video
-
-Check out the SQL agent in action:
-
-[▶️ Watch Demo](https://animesh1012.github.io/data_analyst_agent/demo.mp4)
 
 
 ## Features
